@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["FileType","Type of an item in the file-system."]],"struct":[["Extra","Infrequent properties of an item. Usually specified using PAX extensions."],["Index","Index of a confidential container file-system."],["Inode","Index node (Inode) of an item in file system."]]};

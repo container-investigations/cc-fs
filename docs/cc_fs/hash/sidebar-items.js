@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["Hasher","Hasher computes the sha256 sum of a byte stream."]],"type":[["State","Intermediate state of sha256 computation. 256 bits. See Comparison of SHA functions"]]};
